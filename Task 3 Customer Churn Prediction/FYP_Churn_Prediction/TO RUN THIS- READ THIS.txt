@@ -1,0 +1,1 @@
+In dashboard folder there is a to run.txt, copy that and paste that in dashboard terminal, click enter and wait a few seconds. If it does not load try again. It works always.

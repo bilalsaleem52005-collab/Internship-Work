@@ -1,0 +1,2 @@
+cd "C:\Users\belal\OneDrive\Documents\FYP_Churn_Prediction"
+python -m streamlit run dashboard/app.py

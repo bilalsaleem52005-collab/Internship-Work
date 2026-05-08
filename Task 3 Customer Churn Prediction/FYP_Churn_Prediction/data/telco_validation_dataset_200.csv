@@ -1,0 +1,201 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+VAL330150,Male,0,Yes,No,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),21.38,519.24,No
+VAL936743,Female,1,No,No,25,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Two year,Yes,Bank transfer (automatic),48.6,1221.86,Yes
+VAL971927,Female,1,Yes,No,10,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,34.89,333.34,No
+VAL944425,Female,0,Yes,No,41,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),83.35,3421.36,No
+VAL824057,Female,0,No,No,50,No,No phone service,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),58.79,2941.21,Yes
+VAL169377,Female,1,Yes,Yes,10,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),43.63,448.92,Yes
+VAL935913,Male,1,Yes,No,22,Yes,No,DSL,No,No,No,No,Yes,Yes,Two year,No,Mailed check,59.35,1301.74,No
+VAL298492,Male,1,Yes,Yes,26,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,26.51,693.96,Yes
+VAL102518,Male,0,Yes,Yes,2,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,One year,No,Mailed check,113.18,231.56,No
+VAL044360,Male,1,No,Yes,67,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,97.68,6535.18,No
+VAL408436,Female,0,No,No,47,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Electronic check,65.41,3056.16,Yes
+VAL494330,Male,1,No,No,65,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),51.34,3318.45,Yes
+VAL393566,Female,1,No,No,25,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,One year,Yes,Electronic check,48.17,1196.59,Yes
+VAL289321,Male,0,Yes,Yes,22,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Two year,No,Bank transfer (automatic),69.14,1504.56,No
+VAL393012,Female,1,No,No,21,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,30.78,641.4,No
+VAL248360,Male,1,No,Yes,52,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,34.02,1769.95,No
+VAL267482,Female,0,No,Yes,43,No,No phone service,Fiber optic,Yes,Yes,No,No,No,No,One year,No,Mailed check,88.28,3804.1,Yes
+VAL106226,Female,0,No,Yes,7,Yes,No,DSL,Yes,No,Yes,No,No,No,Two year,No,Electronic check,103.38,731.68,No
+VAL755561,Male,1,Yes,Yes,11,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,29.19,308.92,Yes
+VAL699821,Female,1,No,Yes,65,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),29.71,1912.28,No
+VAL797779,Male,1,No,No,22,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,83.05,1832.78,Yes
+VAL330864,Female,0,No,Yes,8,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),42.79,350.0,Yes
+VAL743455,Male,0,Yes,No,32,Yes,No,DSL,No,No,Yes,Yes,No,No,Two year,No,Mailed check,51.74,1656.83,Yes
+VAL738234,Female,1,No,Yes,27,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,One year,No,Bank transfer (automatic),88.73,2376.8,Yes
+VAL459890,Female,0,No,Yes,21,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),25.09,508.21,No
+VAL806617,Male,1,Yes,Yes,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,32.13,540.12,Yes
+VAL425089,Female,1,Yes,No,33,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,One year,No,Mailed check,117.41,3873.69,No
+VAL773887,Male,1,No,Yes,56,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),23.14,1294.25,No
+VAL878300,Male,1,No,No,41,Yes,No,DSL,No,No,No,No,No,No,One year,Yes,Mailed check,86.81,3549.05,No
+VAL029643,Male,1,Yes,Yes,58,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,43.56,2527.37,No
+VAL095539,Female,1,Yes,Yes,31,No,No phone service,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),83.23,2591.91,Yes
+VAL864695,Female,1,No,No,26,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),52.02,1336.92,No
+VAL267699,Female,0,Yes,No,57,No,No phone service,Fiber optic,Yes,No,Yes,No,No,No,One year,Yes,Mailed check,117.62,6712.82,No
+VAL535032,Male,1,No,Yes,63,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,20.64,1292.92,Yes
+VAL759217,Female,1,Yes,Yes,57,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),19.99,1152.24,No
+VAL230976,Female,1,Yes,Yes,66,No,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),50.03,3300.02,Yes
+VAL198674,Female,0,No,No,46,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Credit card (automatic),105.53,4851.06,Yes
+VAL399918,Female,1,No,No,69,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,78.57,5431.54,Yes
+VAL222293,Male,0,No,No,70,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),21.96,1549.99,Yes
+VAL198426,Male,1,No,Yes,28,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,71.02,1995.58,Yes
+VAL911494,Male,1,Yes,Yes,51,No,No phone service,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),61.62,3151.91,No
+VAL972975,Male,1,Yes,No,1,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,25.71,41.44,Yes
+VAL824983,Male,1,Yes,No,13,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),55.14,699.61,Yes
+VAL096122,Male,1,Yes,No,48,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Bank transfer (automatic),111.41,5348.13,Yes
+VAL262541,Male,0,Yes,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),21.41,25.91,Yes
+VAL605184,Male,0,Yes,No,55,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,30.86,1684.3,Yes
+VAL402820,Male,0,No,No,2,No,No phone service,Fiber optic,No,Yes,No,Yes,No,Yes,Two year,No,Mailed check,66.28,114.94,Yes
+VAL536423,Female,0,No,Yes,50,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,One year,Yes,Credit card (automatic),61.29,3050.14,No
+VAL214047,Male,0,No,No,29,No,No phone service,DSL,No,Yes,No,No,Yes,No,One year,No,Electronic check,64.17,1866.77,Yes
+VAL038411,Male,0,No,Yes,26,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,22.6,604.72,No
+VAL151169,Female,1,No,No,35,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),65.41,2295.9,No
+VAL828676,Male,0,No,No,58,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),21.51,1258.82,No
+VAL745925,Female,0,Yes,Yes,52,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,18.14,956.52,Yes
+VAL886070,Female,1,No,Yes,36,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,21.48,757.41,No
+VAL387996,Male,1,No,Yes,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),97.68,7014.04,Yes
+VAL709082,Female,1,Yes,Yes,41,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),32.61,1354.29,No
+VAL333520,Male,0,Yes,No,57,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),33.4,1892.91,Yes
+VAL117592,Female,0,No,Yes,68,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),29.19,1995.35,Yes
+VAL710569,Male,1,No,No,49,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,27.43,1359.79,No
+VAL784284,Female,0,Yes,Yes,69,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),116.64,8068.1,Yes
+VAL075861,Male,1,Yes,Yes,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,22.28,820.0,No
+VAL427431,Female,0,Yes,Yes,68,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),41.57,2828.08,Yes
+VAL424607,Male,1,No,Yes,30,Yes,No,DSL,No,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,105.58,3175.14,Yes
+VAL853801,Female,1,No,No,50,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),95.64,4763.43,No
+VAL346150,Female,1,No,No,22,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,105.23,2333.97,No
+VAL444812,Male,0,No,No,62,Yes,No,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,94.43,5856.42,Yes
+VAL044873,Female,1,No,No,25,No,No phone service,DSL,No,No,Yes,No,No,Yes,Two year,Yes,Electronic check,96.85,2433.94,No
+VAL218016,Female,0,Yes,Yes,4,No,No phone service,DSL,No,Yes,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),62.9,234.12,Yes
+VAL406027,Male,1,No,Yes,12,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Two year,No,Mailed check,116.24,1407.65,Yes
+VAL177404,Male,0,No,No,55,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),31.21,1726.43,No
+VAL072415,Female,0,Yes,No,40,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Two year,No,Credit card (automatic),118.97,4767.67,Yes
+VAL231661,Female,0,Yes,No,47,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),110.03,5151.91,Yes
+VAL250706,Female,1,No,No,35,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),33.32,1184.69,No
+VAL887463,Male,1,No,Yes,7,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),76.04,530.99,No
+VAL100866,Female,1,No,Yes,53,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,62.58,3316.68,Yes
+VAL975610,Male,1,Yes,No,64,No,No phone service,Fiber optic,Yes,Yes,No,No,No,No,One year,No,Bank transfer (automatic),119.39,7643.54,Yes
+VAL948869,Female,1,Yes,No,50,No,No phone service,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),76.42,3815.45,Yes
+VAL969114,Male,0,No,Yes,18,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,No,Two year,No,Mailed check,46.83,847.11,No
+VAL775771,Male,0,Yes,Yes,24,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),21.5,503.47,Yes
+VAL957374,Male,0,No,Yes,53,Yes,No,DSL,Yes,Yes,No,No,No,Yes,One year,Yes,Bank transfer (automatic),116.15,6160.28,Yes
+VAL982572,Female,0,Yes,No,13,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),84.71,1118.11,No
+VAL512797,Male,1,No,No,46,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,27.52,1260.27,No
+VAL537448,Female,1,No,No,49,No,No phone service,Fiber optic,Yes,No,No,Yes,Yes,No,Two year,No,Mailed check,61.71,3024.18,Yes
+VAL793006,Female,0,Yes,No,47,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,34.72,1631.74,No
+VAL961358,Male,1,No,No,41,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),119.44,4916.23,Yes
+VAL405613,Female,0,No,No,72,No,No phone service,Fiber optic,No,Yes,No,Yes,No,Yes,One year,No,Mailed check,43.15,3110.88,Yes
+VAL358753,Male,0,No,No,3,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),69.72,219.44,No
+VAL300959,Male,0,Yes,No,62,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,28.05,1732.79,Yes
+VAL850220,Female,1,Yes,No,3,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,19.53,45.59,No
+VAL054818,Female,1,No,No,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),25.19,1071.05,Yes
+VAL589287,Female,1,Yes,Yes,50,No,No phone service,DSL,Yes,Yes,No,No,Yes,No,One year,No,Electronic check,50.09,2497.15,No
+VAL024924,Male,0,No,Yes,67,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,No,One year,Yes,Electronic check,71.29,4769.06,Yes
+VAL428418,Male,0,Yes,No,16,No,No phone service,DSL,No,Yes,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),55.86,910.73,Yes
+VAL578966,Female,0,Yes,Yes,6,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,24.9,157.56,Yes
+VAL810559,Male,0,Yes,Yes,65,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),45.75,2971.55,No
+VAL458530,Male,1,No,No,38,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Electronic check,61.33,2326.85,Yes
+VAL147520,Male,1,Yes,No,28,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,34.78,982.6,Yes
+VAL197669,Female,1,Yes,Yes,31,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,21.52,682.08,Yes
+VAL413346,Female,1,Yes,Yes,63,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),32.71,2049.15,No
+VAL598808,Female,0,Yes,Yes,6,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,81.45,502.17,Yes
+VAL047718,Female,1,Yes,Yes,43,Yes,No,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),93.66,4012.66,No
+VAL148364,Female,0,No,No,67,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),33.57,2238.53,Yes
+VAL231499,Male,0,No,Yes,23,No,No phone service,DSL,No,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,75.58,1741.58,Yes
+VAL549940,Male,0,Yes,No,37,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),29.27,1089.12,Yes
+VAL842272,Female,1,No,No,18,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Two year,No,Mailed check,81.51,1485.67,No
+VAL917173,Male,1,No,No,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,29.15,1382.86,No
+VAL633820,Female,0,Yes,No,34,No,No phone service,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,114.87,3919.76,Yes
+VAL036426,Female,1,No,No,6,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),60.31,343.17,Yes
+VAL777180,Male,0,Yes,Yes,48,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,81.36,3896.37,No
+VAL560014,Male,1,No,No,61,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,25.5,1549.15,Yes
+VAL549053,Female,1,No,Yes,10,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Mailed check,40.14,413.85,Yes
+VAL758041,Female,0,No,Yes,19,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,No,Two year,Yes,Mailed check,75.37,1413.11,No
+VAL129038,Female,0,Yes,Yes,5,No,No phone service,Fiber optic,No,No,Yes,Yes,No,No,One year,Yes,Mailed check,52.51,272.36,Yes
+VAL294538,Female,0,No,Yes,67,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Mailed check,69.35,4644.11,No
+VAL223306,Male,0,Yes,No,63,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No,One year,No,Mailed check,62.88,3980.32,No
+VAL510288,Male,1,No,Yes,3,Yes,No,DSL,No,No,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),50.56,140.98,Yes
+VAL899194,Male,1,Yes,No,14,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),20.7,280.17,No
+VAL748933,Male,0,Yes,Yes,36,No,No phone service,DSL,No,Yes,No,Yes,No,No,Two year,No,Credit card (automatic),67.07,2417.62,No
+VAL918698,Female,0,No,Yes,22,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,68.15,1486.31,Yes
+VAL519087,Female,0,No,No,68,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),24.84,1691.46,Yes
+VAL458787,Male,0,Yes,No,44,No,No phone service,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,98.66,4341.89,Yes
+VAL952681,Male,1,No,No,44,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Two year,No,Mailed check,88.54,3879.75,No
+VAL176299,Male,0,Yes,Yes,50,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Electronic check,61.05,3054.14,No
+VAL832020,Male,1,Yes,No,71,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),55.63,3935.0,Yes
+VAL092098,Female,1,No,Yes,43,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,One year,Yes,Bank transfer (automatic),119.5,5157.93,No
+VAL787724,Male,1,No,No,7,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),80.49,558.76,No
+VAL940656,Female,0,Yes,No,33,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),74.15,2453.12,No
+VAL288563,Male,1,Yes,Yes,40,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,105.41,4218.68,Yes
+VAL582523,Female,0,No,Yes,45,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Electronic check,115.6,5213.9,Yes
+VAL366914,Female,0,Yes,Yes,67,No,No phone service,DSL,No,No,Yes,No,No,No,One year,No,Credit card (automatic),82.18,5518.32,Yes
+VAL292153,Male,1,Yes,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),119.07,3324.1,Yes
+VAL079170,Male,1,No,No,72,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Mailed check,69.0,4958.02,Yes
+VAL319602,Female,1,No,No,68,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,18.51,1251.4,Yes
+VAL828983,Female,0,No,Yes,71,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,23.28,1656.42,Yes
+VAL321369,Male,0,Yes,Yes,12,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),61.07,713.54,Yes
+VAL351809,Female,1,Yes,No,6,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),43.23,272.84,No
+VAL115804,Female,0,No,Yes,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),18.35,303.49,Yes
+VAL008602,Male,1,No,Yes,13,No,No phone service,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,116.42,1521.79,Yes
+VAL147415,Male,0,Yes,Yes,52,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,87.66,4557.16,No
+VAL140598,Male,1,No,Yes,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),27.66,431.88,No
+VAL910586,Female,0,No,Yes,17,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Mailed check,57.98,997.28,Yes
+VAL806903,Female,1,No,No,17,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,No,Credit card (automatic),116.29,1964.89,No
+VAL430608,Male,0,Yes,Yes,1,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,31.01,50.85,Yes
+VAL333896,Female,1,Yes,Yes,5,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),70.63,369.38,No
+VAL813704,Female,0,Yes,No,70,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,No,Credit card (automatic),99.78,7000.79,Yes
+VAL458307,Male,0,Yes,Yes,7,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),30.43,230.4,Yes
+VAL072076,Male,1,No,No,15,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,94.73,1423.24,Yes
+VAL517145,Female,1,Yes,Yes,52,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Mailed check,100.02,5205.63,No
+VAL724849,Female,0,No,No,69,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,26.74,1861.03,Yes
+VAL952356,Male,0,No,No,51,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,28.56,1467.03,No
+VAL984807,Male,0,No,Yes,18,Yes,No,DSL,No,No,No,Yes,No,Yes,One year,Yes,Mailed check,113.14,2021.22,Yes
+VAL351808,Male,0,No,No,15,Yes,No,DSL,No,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),113.08,1688.23,No
+VAL061487,Male,0,Yes,No,71,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,28.65,2027.69,No
+VAL431280,Male,0,Yes,Yes,57,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),33.07,1867.24,Yes
+VAL045575,Male,0,Yes,Yes,16,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,21.59,358.43,No
+VAL712198,Female,0,Yes,Yes,48,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),21.88,1038.57,Yes
+VAL468642,Female,0,No,No,10,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),81.14,822.08,Yes
+VAL296758,Male,1,Yes,No,39,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),19.73,769.93,Yes
+VAL877562,Male,1,No,Yes,66,No,No phone service,Fiber optic,Yes,No,Yes,No,No,No,Two year,Yes,Mailed check,119.1,7850.28,No
+VAL566618,Female,0,No,Yes,32,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,21.97,694.43,Yes
+VAL706318,Female,1,Yes,No,26,No,No phone service,DSL,No,No,Yes,Yes,No,No,One year,No,Bank transfer (automatic),55.9,1466.96,No
+VAL249760,Male,0,Yes,Yes,54,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),27.98,1530.13,No
+VAL023986,Male,1,Yes,No,58,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,One year,No,Mailed check,111.3,6438.84,Yes
+VAL623669,Female,0,Yes,No,57,Yes,Yes,DSL,No,No,No,No,No,No,One year,Yes,Electronic check,70.31,4020.84,No
+VAL461660,Male,1,Yes,Yes,11,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),30.43,349.61,Yes
+VAL437815,Male,0,No,No,16,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),40.14,660.28,Yes
+VAL011705,Female,0,Yes,No,61,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,42.74,2593.36,No
+VAL400777,Female,0,Yes,Yes,36,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),20.51,729.96,No
+VAL408658,Female,0,Yes,No,34,Yes,No,DSL,No,Yes,Yes,No,No,No,Two year,Yes,Credit card (automatic),70.22,2386.95,No
+VAL939827,Female,0,No,Yes,46,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,Yes,Bank transfer (automatic),64.13,2951.34,No
+VAL816885,Male,1,No,Yes,38,No,No phone service,DSL,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),86.36,3267.65,Yes
+VAL662207,Female,0,No,No,27,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),22.84,598.17,No
+VAL787585,Male,0,No,Yes,14,Yes,No,DSL,No,Yes,No,No,No,No,One year,No,Credit card (automatic),71.76,990.35,No
+VAL048347,Male,1,No,Yes,18,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),75.09,1348.66,Yes
+VAL720671,Male,1,Yes,Yes,53,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,29.26,1534.92,Yes
+VAL150699,Female,1,No,Yes,27,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),24.77,658.42,No
+VAL125510,Female,0,No,No,72,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),65.91,4746.13,Yes
+VAL446217,Female,1,Yes,No,54,No,No phone service,DSL,No,No,No,No,No,No,Two year,Yes,Electronic check,107.94,5834.78,Yes
+VAL699960,Male,0,No,No,27,No,No phone service,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,59.87,1632.4,Yes
+VAL190932,Female,1,Yes,Yes,10,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),21.85,201.91,No
+VAL027429,Female,1,Yes,Yes,52,No,No phone service,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),59.5,3099.83,No
+VAL133584,Female,0,Yes,No,26,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,32.94,853.59,No
+VAL260372,Male,0,No,No,15,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.46,293.04,No
+VAL908143,Male,0,No,Yes,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,34.33,496.78,No
+VAL835372,Male,0,Yes,No,72,No,No phone service,DSL,No,No,No,No,No,Yes,Two year,Yes,Credit card (automatic),43.66,3147.39,Yes
+VAL498226,Female,0,Yes,No,1,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),29.14,9.21,Yes
+VAL526993,Male,1,Yes,No,11,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),90.22,980.26,Yes
+VAL650253,Male,1,Yes,Yes,30,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,64.27,1937.98,No
+VAL182814,Female,0,Yes,Yes,66,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,114.61,7553.97,No
+VAL139277,Female,0,Yes,No,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),22.16,922.89,No
+VAL589672,Female,1,No,No,28,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Mailed check,44.42,1224.11,Yes
+VAL607575,Female,1,Yes,No,11,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),26.58,307.52,Yes
+VAL611701,Male,0,Yes,Yes,40,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,101.84,4066.33,No
+VAL164594,Female,1,Yes,No,33,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Two year,Yes,Electronic check,72.36,2392.61,Yes
+VAL353503,Female,0,No,Yes,53,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,110.58,5848.81,Yes
+VAL597011,Male,0,No,No,3,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,59.77,171.33,No
+VAL537873,Female,1,No,Yes,64,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),34.21,2194.99,Yes
+VAL591845,Male,1,No,Yes,34,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),24.74,851.96,Yes
+VAL863179,Female,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),109.64,7773.0,Yes
+VAL889489,Female,0,Yes,Yes,53,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),47.59,2530.59,Yes

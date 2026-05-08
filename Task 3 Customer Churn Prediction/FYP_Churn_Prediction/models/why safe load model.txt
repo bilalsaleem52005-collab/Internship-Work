@@ -1,0 +1,7 @@
+did safe load model, because the file is binary not text, opening it normally will break it. 
+
+backup first, insurance for a future mistake. 
+
+extra safety 
+
+easier to understand model for human reading as binary is hard to understand and complicated 
